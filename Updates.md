@@ -1,4 +1,5 @@
 # UPDATE 1.0
 
-![image](https://user-images.githubusercontent.com/90879002/173333564-ad4d23c2-dc34-490e-88da-92b5ec0876a7.png)
+![image](https://user-images.githubusercontent.com/90879002/173333688-3a0e3b06-7274-4345-9946-0a01d67c446b.png)
+
 
