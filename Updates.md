@@ -16,3 +16,10 @@
 # UPDATE 1.3 ( added line and form )
 
 ![image](https://user-images.githubusercontent.com/90879002/173440268-4d4a721e-b8d1-46b8-8d60-83b4394a2235.png)
+
+
+# UPDATE 1.4 ( changed the `made by` thingy )
+
+![image](https://user-images.githubusercontent.com/90879002/173540367-6167093d-6e8e-4ee8-a707-43a67cf2c166.png)
+
+
