@@ -28,4 +28,11 @@
 ![image](https://user-images.githubusercontent.com/90879002/173779111-41a5f1d6-d647-46d7-aad2-2839b53aef78.png)
 
 
+# UPDATE 1.6 ( added Favicon )
+
+![image](https://user-images.githubusercontent.com/90879002/174474993-c7f2e41d-cc96-4acd-8379-0c4b6d3f0aee.png)
+
+
+
+
 
