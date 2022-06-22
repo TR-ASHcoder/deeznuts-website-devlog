@@ -33,6 +33,12 @@
 ![image](https://user-images.githubusercontent.com/90879002/174474993-c7f2e41d-cc96-4acd-8379-0c4b6d3f0aee.png)
 
 
+# UPDATE 1.7 ( added benefits thingo ) 
+
+![image](https://user-images.githubusercontent.com/90879002/174972555-10409f2e-3317-4e59-8993-ec8e5b3db4c8.png)
+
+
+
 
 
 
