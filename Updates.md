@@ -41,7 +41,14 @@
 # UPDATE 1.8 ( was unhosted and made into a openable file ) 
 
 ![image](https://user-images.githubusercontent.com/90879002/177141447-1dfa9cd9-966e-4e09-bd29-74e01812450b.png)
-file = https://www.mediafire.com/file/1ma906oeff2fjsp/deeznuts.zip/file
+file = *file no longer needed*
+
+
+# UPDATE 1.9 ( rehosted under new name ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177143509-203fd503-5b62-4422-80b1-1da3586e1c42.png)
+weblink= *https://deznats.000webhostapp.com/*
+
 
  
 
