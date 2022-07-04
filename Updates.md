@@ -40,7 +40,8 @@
 
 # UPDATE 1.8 ( was unhosted and made into a openable file ) 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/90879002/177141447-1dfa9cd9-966e-4e09-bd29-74e01812450b.png)
+
  
 
 
