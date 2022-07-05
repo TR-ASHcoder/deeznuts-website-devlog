@@ -50,7 +50,10 @@ file = *file no longer needed*
 weblink= *https://deznats.000webhostapp.com/*
 
 
- 
+# UPDATE 2.0 ( fixed spelling mistake )
+
+![image](https://user-images.githubusercontent.com/90879002/177228992-202f308e-71b4-4584-b4de-1296665269f5.png)
+
 
 
 
