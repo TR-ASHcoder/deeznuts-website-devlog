@@ -55,6 +55,12 @@ weblink= *https://deznats.000webhostapp.com/*
 ![image](https://user-images.githubusercontent.com/90879002/177228992-202f308e-71b4-4584-b4de-1296665269f5.png)
 
 
+# UPDATE 2.1 ( now has a discord embed ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177523062-201b8dc0-4fa2-447e-8e3a-2a83e7e39bfc.png)
+
+
+
 
 
 
