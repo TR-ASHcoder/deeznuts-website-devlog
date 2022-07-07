@@ -75,6 +75,10 @@ weblink= *https://deznats.000webhostapp.com/*
 ![image](https://user-images.githubusercontent.com/90879002/177679006-d770bc46-63f4-4197-aaab-9501f17392a4.png)
 
 
+# UPDATE 2.5 ( changed hyperlink colour ) 
+
+![deeznuts (1)](https://user-images.githubusercontent.com/90879002/177723092-798622ba-68ee-4189-bd82-b038af9947af.gif)
+
 
 
 
