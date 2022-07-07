@@ -60,6 +60,14 @@ weblink= *https://deznats.000webhostapp.com/*
 ![image](https://user-images.githubusercontent.com/90879002/177524231-721b4c66-1c8b-4f6d-b3c0-3b970355e46a.png)
 
 
+# UPDATE 2.2 ( made form thingo into a hyperlink ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177660136-f8150a2a-5e78-46a3-aaa2-1fa280934dbd.png)
+
+
+# UPDATE 2.3 ( says who made the site, aka **me** ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177662663-e49fad26-39c9-4273-8b47-69643bed517a.png)
 
 
 
