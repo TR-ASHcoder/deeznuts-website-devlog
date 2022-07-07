@@ -67,7 +67,8 @@ weblink= *https://deznats.000webhostapp.com/*
 
 # UPDATE 2.3 ( says who made the site, aka **me** ) 
 
-![image](https://user-images.githubusercontent.com/90879002/177662663-e49fad26-39c9-4273-8b47-69643bed517a.png)
+![image](https://user-images.githubusercontent.com/90879002/177662993-680ff48d-1fb7-4950-9220-1489d6647b38.png)
+
 
 
 
