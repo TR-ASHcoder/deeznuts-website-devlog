@@ -70,6 +70,10 @@ weblink= *https://deznats.000webhostapp.com/*
 ![image](https://user-images.githubusercontent.com/90879002/177662993-680ff48d-1fb7-4950-9220-1489d6647b38.png)
 
 
+# UPDATE 2.4 ( changed image and made larger ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177679006-d770bc46-63f4-4197-aaab-9501f17392a4.png)
+
 
 
 
