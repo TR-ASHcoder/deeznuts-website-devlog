@@ -80,6 +80,9 @@ weblink= *https://deznats.000webhostapp.com/*
 ![deeznuts (1)](https://user-images.githubusercontent.com/90879002/177723092-798622ba-68ee-4189-bd82-b038af9947af.gif)
 
 
+# UPDATE 2.6 ( made gmail thingo into a hyperlink ) 
+
+![image](https://user-images.githubusercontent.com/90879002/177890795-d44fd9ca-84ec-493a-92fe-a795c5723a4a.png)
 
 
 
