@@ -2,4 +2,4 @@
 
 *SITE STATUS*:
 
-[![Netlify Status](?branch=https://api.netlify.com/api/v1/badges/18c2abb9-9d58-4a7d-a422-04ce0acfa52e/deploy-status)](https://app.netlify.com/sites/myshittylinkssite/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f3c47a5-737b-4826-b4c0-27e694c0640e/deploy-status)](?branch=https://app.netlify.com/sites/deeznutzz/deploys)
