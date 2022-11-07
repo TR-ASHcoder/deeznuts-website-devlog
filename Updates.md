@@ -87,3 +87,6 @@ weblink= *https://deznats.000webhostapp.com/*
 
 # UPDATE 2.7 ( new host provider ) 
 
+![image](https://user-images.githubusercontent.com/90879002/200277304-ab15d433-ec54-4b10-834a-509ad3a3d955.png)
+
+
